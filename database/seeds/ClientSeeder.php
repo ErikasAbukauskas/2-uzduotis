@@ -39,36 +39,6 @@ class ClientSeeder extends Seeder
         //     'image_url' => 'Nuoroda'
         // ]);
 
-        // DB::table("clients")->insert([
-        //     'name' => 'Vardenis',
-        //     'surname' => 'Pavardenis',
-        //     'username' => 'Slapyvardis',
-        //     'company_id' => rand(1,10),
-        //     'image_url' => 'Nuoroda'
-        // ]);
 
-        // DB::table("clients")->insert([
-        //     'name' => 'Vardenis',
-        //     'surname' => 'Pavardenis',
-        //     'username' => 'Slapyvardis',
-        //     'company_id' => rand(1,10),
-        //     'image_url' => 'Nuoroda'
-        // ]);
-
-        // DB::table("clients")->insert([
-        //     'name' => 'Vardenis',
-        //     'surname' => 'Pavardenis',
-        //     'username' => 'Slapyvardis',
-        //     'company_id' => rand(1,10),
-        //     'image_url' => 'Nuoroda'
-        // ]);
-
-        // DB::table("clients")->insert([
-        //     'name' => 'Vardenis',
-        //     'surname' => 'Pavardenis',
-        //     'username' => 'Slapyvardis',
-        //     'company_id' => rand(1,10),
-        //     'image_url' => 'Nuoroda'
-        // ]);
     }
 }

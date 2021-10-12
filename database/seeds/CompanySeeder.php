@@ -35,18 +35,6 @@ class CompanySeeder extends Seeder
 
         // ]);
 
-        // DB::table("companies")->insert([
-        //     'name' => 'Pavadinimas',
-        //     'type' => 'Tipas',
-        //     'description' => 'Aprasymas',
 
-        // ]);
-
-        // DB::table("companies")->insert([
-        //     'name' => 'Pavadinimas',
-        //     'type' => 'Tipas',
-        //     'description' => 'Aprasymas',
-
-        // ]);
     }
 }
