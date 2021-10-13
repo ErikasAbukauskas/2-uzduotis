@@ -15,6 +15,7 @@ class ClientSeeder extends Seeder
     {
 
         factory(Client::class, 50)->create();
+
         // DB::table("clients")->insert([
         //     'name' => 'Vardenis',
         //     'surname' => 'Pavardenis',
