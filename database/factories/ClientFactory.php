@@ -11,6 +11,6 @@ $factory->define(Client::class, function (Faker $faker) {
         'surname' => $faker->sentence(4),
         'username' => Str::random(15),
         'company_id' => rand(1,10),
-        'image_url' => $faker->url(),
+        'image_url' => $faker->url()
     ];
 });
