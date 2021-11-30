@@ -38,7 +38,7 @@ class ClientController extends Controller
     {
         $client = new Client;
 
-        //DB stulpelio pavadinimas(name) = input laukelio vardas(author_name)
+        //DB stulpelio pavadinimas(name) = input laukelio vardas(client_name)
         $client->name = $request->client_name;
         $client->surname = $request->client_surname;
         $client->username = $request->client_username;
